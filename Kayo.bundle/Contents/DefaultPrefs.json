@@ -1,0 +1,24 @@
+[
+	{
+		"id": "kayo_username",
+		"type": "text",
+		"label": "Username/E-mail",
+		"values": "",
+        "default": ""
+	},
+    {
+		"id": "kayo_password",
+		"type": "text",
+		"label": "Password",
+		"values": "",
+        "default": "",
+        "option" : "hidden"
+	},
+	{
+		"id": "kayo_bandwidth",
+		"type": "text",
+		"label": "Bandwidth",
+		"values": "",
+        "default": "7431650"
+	}
+]
